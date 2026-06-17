@@ -97,7 +97,7 @@ Implementar las siguientes consultas accesibles desde el menú de consola:
 
 ---
 
-## Consigna adicional (Solo para grupos de 3)
+## Consigna adicional (Solo para el grupo de 3)
 
 > Esta sección es **obligatoria únicamente** para el grupo de tres integrantes. Para el resto de equipos es completamente opcional.
 
